@@ -9,7 +9,8 @@
 </head>
 <body>
   <header>
-    <a class="brand" href="/">⚱ Second Church of the <span class="kykeon"><span class="latin">Kykeon</span><span class="greek" lang="grc">κυκεών</span></span></a>
+    <a class="brand" href="/">⚱ <span class="ord"><span class="long">Second</span><span class="short">2nd</span></span> Church of the <span class="kykeon"><span class="latin">Kykeon</span><span class="greek" lang="grc">κυκεών</span></span></a>
+    <button class="menu-toggle" type="button" aria-label="Menu" aria-expanded="false">☰</button>
     <nav>{{ range .Site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}</nav>
     <button class="theme-toggle" type="button" aria-label="Toggle light/dark mode">◐</button>
   </header>

@@ -9,3 +9,11 @@ document.addEventListener("click", (event) => {
   root.dataset.theme = next;
   localStorage.setItem("theme", next);
 });
+
+document.addEventListener("click", (event) => {
+  const nav = document.querySelector("header nav")!;
+  const toggle = document.querySelector(".menu-toggle")!;
+  const open = toggle.contains(event.target as Node) ? !nav.classList.contains("open") : false;
+  nav.classList.toggle("open", open);
+  toggle.setAttribute("aria-expanded", String(open));
+});
