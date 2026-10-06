@@ -17,8 +17,8 @@ disableKinds = ["taxonomy", "term"]
     url = "/sacrament/"
     weight = 20
   [[menus.main]]
-    name = "Philosophy"
-    url = "/philosophy/"
+    name = "Manifesto"
+    url = "/manifesto/"
     weight = 5
   [[menus.main]]
     name = "Membership"
