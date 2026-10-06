@@ -5,11 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
   <link rel="stylesheet" href="/style.css">
+  {{ with resources.Get "theme.ts" | js.Build (dict "minify" true) }}<script src="{{ .RelPermalink }}"></script>{{ end }}
 </head>
 <body>
   <header>
     <a class="brand" href="/">⚱ Second Church of the Kykeon</a>
     <nav>{{ range .Site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}</nav>
+    <button class="theme-toggle" type="button" aria-label="Toggle light/dark mode">◐</button>
   </header>
   <div class="meander"></div>
   <main>{{ block "main" . }}{{ end }}</main>
