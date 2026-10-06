@@ -4,12 +4,20 @@
 * { box-sizing: border-box; }
 body { margin:0; background:var(--bg); color:var(--ink); font:18px/1.65 Georgia, "Palatino Linotype", serif; }
 a { color:var(--accent); }
+.page { position:relative; }
 header { display:flex; flex-wrap:wrap; gap:.5rem 2rem; justify-content:space-between; align-items:baseline; padding:1rem 1.5rem; background:var(--amphora); }
 .brand { font:bold 1.5rem "Palatino Linotype", Palatino, Georgia, serif; text-decoration:none; color:var(--laurel); letter-spacing:.08em; text-transform:uppercase; }
+.kykeon { display:inline-grid; align-items:baseline; line-height:1; }
+.kykeon > * { grid-area:1/1; }
+.kykeon .greek { visibility:hidden; text-transform:none; font-size:1.3em; line-height:.77; }
+.kykeon:hover .greek { visibility:visible; }
+.kykeon:hover .latin { visibility:hidden; }
 nav a { margin-right:1rem; text-decoration:none; color:#f3e6cc; border-bottom:1px solid transparent; }
 nav a:hover { border-bottom-color:var(--terracotta); }
-.meander { position:relative; height:54px; background:var(--amphora); }
-.meander::before { content:""; position:absolute; inset:0; background:var(--laurel); -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='42' height='54'%3E%3Cg fill='none' stroke='%23000'%3E%3Cpath stroke-width='3' d='M0 1.5h42M0 52.5h42'/%3E%3Cpath stroke-width='3' d='M0 44h4V10h34v26H21v-8h7v-9H12v25h30'/%3E%3C/g%3E%3C/svg%3E") repeat-x; mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='42' height='54'%3E%3Cg fill='none' stroke='%23000'%3E%3Cpath stroke-width='3' d='M0 1.5h42M0 52.5h42'/%3E%3Cpath stroke-width='3' d='M0 44h4V10h34v26H21v-8h7v-9H12v25h30'/%3E%3C/g%3E%3C/svg%3E") repeat-x; }
+.meander { position:absolute; top:0; bottom:0; width:54px; background:var(--amphora); }
+.meander.left { left:0; }
+.meander.right { right:0; }
+.meander::before { content:""; position:absolute; inset:0 7px; background:var(--laurel); -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='54' height='42'%3E%3Cg transform='translate(54 0) rotate(90)' fill='none' stroke='%23000'%3E%3Cpath stroke-width='3' d='M0 52.5h42'/%3E%3Cpath stroke-width='3' d='M0 44h4V10h34v26H21v-8h7v-9H12v25h30'/%3E%3C/g%3E%3C/svg%3E") 0 -1.9px / 100% auto repeat-y; mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='54' height='42'%3E%3Cg transform='translate(54 0) rotate(90)' fill='none' stroke='%23000'%3E%3Cpath stroke-width='3' d='M0 1.5h42M0 52.5h42'/%3E%3Cpath stroke-width='3' d='M0 44h4V10h34v26H21v-8h7v-9H12v25h30'/%3E%3C/g%3E%3C/svg%3E") 0 -1.9px / 100% auto repeat-y; }
 main { max-width:42rem; margin:0 auto; padding:1rem 1.25rem 3rem; }
 h1, h2 { font-weight:normal; color:var(--wine); font-family:"Palatino Linotype", Palatino, Georgia, serif; }
 h1 { font-size:2.2rem; border-bottom:2px solid var(--terracotta); padding-bottom:.3rem; }
@@ -30,3 +38,4 @@ footer a { color:var(--laurel); }
 blockquote { margin:1.25rem 0; padding:.25rem 1rem; border-left:4px solid var(--gold); background:var(--panel); white-space:pre-line; }
 blockquote cite { display:block; margin-top:.5rem; font-size:.9rem; color:var(--wine); }
 blockquote cite::before { content:"— "; }
+@media (max-width: 54rem) { .meander { display:none; } }
