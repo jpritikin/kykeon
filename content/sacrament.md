@@ -4,6 +4,8 @@ title: Sacrament
 
 Our sacrament is the kykeon, the drink of the Eleusinian Mysteries. Its effects resemble MDMA's, but the lowest dose of kykeon is like the maximum dose of MDMA. It is prepared in two parts: an ergine (LSA) extraction from Hawaiian baby woodrose seeds, and fresh young barley grass, whose aldehydes appear to convert ergine into kykeon as it crosses the blood-brain barrier. The preparation follows Matthew Ray Stahl's modern adaptation.
 
+Aspirants must [join the church](/membership/) before using the sacrament.
+
 The sacrament is currently in beta test. Read the full protocol, including contraindications, at the [Stahl Shrine](https://brambles.joshuapritikin.com/docs/psychoactive/stahl-shrine/).
 
 ## Testimonials

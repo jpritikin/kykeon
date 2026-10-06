@@ -16,7 +16,7 @@ That quality is what we mean by effortless. It is not willpower disguised as cal
 
 ## Why this criterion
 
-Effortlessness is only possible with a measure of inner trust and harmony. It is evidence of Self-leadership. Those who pass the test may receive the sacrament. It is a blunt test, but blunt is better than nothing.
+Effortlessness is only possible with a measure of inner trust and harmony. It is evidence of Self-leadership. It is a blunt test, but blunt is better than nothing.
 
 ## How to certify
 
@@ -27,6 +27,6 @@ There is no form to submit.
 
 ## The sacrament
 
-Members who pass the test may receive the sacrament, the kykeon of the Eleusinian Mysteries. [Learn about the sacrament.](/sacrament/)
+Aspirants must join the church before using the sacrament, the kykeon of the Eleusinian Mysteries. [Learn about the sacrament.](/sacrament/)
 
 {{< signup >}}
