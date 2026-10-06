@@ -5,7 +5,8 @@ type Action = "approve" | "unapprove" | "delete";
 type GoogleIdentity = {
   accounts: {
     id: {
-      initialize(config: { client_id: string; callback: (response: { credential: string }) => void }): void;
+      initialize(config: { client_id: string; callback: (response: { credential: string }) => void; auto_select: boolean }): void;
+      prompt(): void;
       renderButton(parent: HTMLElement, options: { theme: string }): void;
     };
   };
@@ -77,12 +78,14 @@ const start = () => {
   if (!google) return setTimeout(start, 100);
   google.accounts.id.initialize({
     client_id: root.dataset.clientId!,
+    auto_select: true,
     callback: (response) => {
       credential = response.credential;
       load();
     },
   });
   google.accounts.id.renderButton(buttonSlot, { theme: "outline" });
+  google.accounts.id.prompt();
 };
 
 start();
