@@ -1,0 +1,25 @@
+baseURL = "https://kykeon.church/"
+languageCode = "en-us"
+title = "Kykeon Church"
+
+[menus]
+  [[menus.main]]
+    name = "Leadership"
+    url = "/leadership/"
+    weight = 10
+  [[menus.main]]
+    name = "Testimonials"
+    url = "/testimonials/"
+    weight = 20
+  [[menus.main]]
+    name = "RFRA"
+    url = "/rfra/"
+    weight = 30
+  [[menus.main]]
+    name = "Join the List"
+    url = "/join/"
+    weight = 40
+  [[menus.main]]
+    name = "Philosophy"
+    url = "/philosophy/"
+    weight = 5

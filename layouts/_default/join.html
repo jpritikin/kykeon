@@ -1,0 +1,7 @@
+{{ define "main" }}
+<article><h1>{{ .Title }}</h1>{{ .Content }}</article>
+<p class="flash" data-status-ok hidden>You are on the list. The heralds will find you.</p>
+<p class="flash" data-status-invalid hidden>That address didn't look right. Try again?</p>
+{{ partial "signup-form.html" . }}
+{{ partial "status.html" . }}
+{{ end }}

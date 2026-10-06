@@ -1,0 +1,19 @@
+:root { --bg:#f6efe0; --ink:#2b2118; --accent:#1f4e8c; --terracotta:#b5532f; --gold:#c8a24a; }
+@media (prefers-color-scheme: dark) { :root { --bg:#1c1713; --ink:#efe5d2; --accent:#7fb0ea; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:18px/1.65 Georgia, "Palatino Linotype", serif; }
+a { color:var(--accent); }
+header { display:flex; flex-wrap:wrap; gap:.5rem 2rem; justify-content:space-between; align-items:baseline; padding:1rem 1.5rem; }
+.brand { font-size:1.5rem; font-weight:bold; text-decoration:none; color:var(--terracotta); letter-spacing:.05em; }
+nav a { margin-right:1rem; text-decoration:none; }
+.meander { height:14px; background:repeating-linear-gradient(90deg,var(--terracotta) 0 14px,transparent 14px 28px), repeating-linear-gradient(90deg,transparent 0 7px,var(--gold) 7px 21px,transparent 21px 28px); background-size:auto 4px, auto 4px; background-position:0 0, 0 8px; background-repeat:repeat-x; }
+main { max-width:42rem; margin:0 auto; padding:1rem 1.25rem 3rem; }
+h1, h2 { font-weight:normal; color:var(--terracotta); }
+.notice { border:2px solid var(--gold); background:rgba(200,162,74,.15); padding:.75rem 1rem; margin:1rem 0; border-radius:4px; }
+.signup, .testimonial { border-top:2px solid var(--gold); margin-top:2rem; padding-top:1rem; }
+input[type=email], input[type=text], textarea { width:100%; padding:.5rem; font:inherit; background:transparent; color:inherit; border:1px solid var(--ink); border-radius:3px; }
+label { display:block; margin-bottom:1rem; }
+button { font:inherit; padding:.5rem 1.25rem; margin-top:.5rem; background:var(--terracotta); color:#fff; border:0; border-radius:3px; cursor:pointer; }
+.hp { position:absolute; left:-9999px; }
+.flash { padding:.5rem 1rem; border-left:4px solid var(--accent); background:rgba(31,78,140,.12); }
+footer { text-align:center; font-size:.85rem; padding:2rem 1rem; opacity:.8; }

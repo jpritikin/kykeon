@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+    <a class="brand" href="/">⚱ Kykeon Church</a>
+    <nav>{{ range .Site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}</nav>
+  </header>
+  <div class="meander"></div>
+  <main>{{ block "main" . }}{{ end }}</main>
+  <footer>
+    <p>Kykeon Church · Eleusis, by way of the internet</p>
+    <p><a href="/leadership/">Who's in charge? (It's complicated.)</a></p>
+  </footer>
+</body>
+</html>

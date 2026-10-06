@@ -1,0 +1,4 @@
+<script>
+  const status = new URLSearchParams(location.search).get("status");
+  if (status) document.querySelector("[data-status-" + status + "]")?.removeAttribute("hidden");
+</script>

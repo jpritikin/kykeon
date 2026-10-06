@@ -1,0 +1,8 @@
+{
+  "name": "kykeon-church",
+  "private": true,
+  "scripts": {
+    "dev": "hugo server --disableFastRender",
+    "build": "hugo --minify"
+  }
+}
