@@ -31,6 +31,6 @@ Ergine, also called lysergic acid amide or LSA, is regulated under the federal C
 1. **Sincere religious exercise.** The kykeon is the sacrament at the center of the Eleusinian mysteries, one of the longest-lived religious traditions of the ancient world. A church devoted to that tradition exercises religion when it seeks to revive the rite.
 2. **Substantial burden.** Prohibition of the sacrament makes the central rite impossible to practice.
 3. **Compelling interest, least restrictive means.** Under *Gonzales v. O Centro Espírita Beneficente União do Vegetal* (2006), the government must show a compelling interest in applying the law to *this* claimant, not merely a general interest in drug control. The Court granted an exception for hoasca, and later exceptions followed the same reasoning.
-4. **Low risk profile.** The unscheduled natural sources of ergine, such as morning glory and Hawaiian baby woodrose seeds, are sold openly as ornamental plants. Federal scheduling of the isolated compound sits uneasily beside that.
+4. **Inconsistent enforcement.** Seeds of morning glory and Hawaiian baby woodrose, which contain ergine, are sold openly as ornamental plants. A government that tolerates this cannot easily claim a compelling interest in prohibiting the same compound when it is used sacramentally.
 
 This page is not legal advice.

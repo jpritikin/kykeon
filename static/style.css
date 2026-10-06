@@ -14,6 +14,7 @@ h1 { font-size:2.2rem; border-bottom:2px solid var(--terracotta); padding-bottom
 h2::before { content:"❦ "; color:var(--terracotta); }
 .notice { border:2px solid var(--gold); background:var(--panel); padding:.75rem 1rem; margin:1rem 0; border-radius:4px; }
 .signup, .testimonial { border-top:3px double var(--gold); margin-top:2rem; padding-top:1rem; }
+.testimonial { margin-bottom:3rem; }
 input[type=email], input[type=text], textarea { width:100%; padding:.5rem; font:inherit; background:transparent; color:inherit; border:1px solid var(--ink); border-radius:3px; }
 label { display:block; margin-bottom:1rem; }
 button { font:inherit; padding:.5rem 1.25rem; margin-top:.5rem; background:var(--terracotta); color:#fff; border:2px solid var(--amphora); border-radius:3px; cursor:pointer; }
