@@ -27,6 +27,6 @@ There is no form to submit.
 
 ## The sacrament
 
-Aspirants must join the church before using the sacrament, the kykeon of the Eleusinian Mysteries. [Learn about the sacrament.](/sacrament/)
+Congratulations, member! The sacrament, the kykeon of the Eleusinian Mysteries, is now open to you. [Learn about the sacrament.](/sacrament/)
 
 {{< signup >}}
