@@ -36,7 +36,9 @@ Knowing what's right and doing it under duress are different things. Therapists 
 
 So the special opportunity is measurement, not awakening: a way to measure Self-leadership. Questionnaires capture vocabulary, not behavior. A trained observer's judgment is slow, expensive, and varies between observers. Daily life provokes unpredictably.
 
-A psychedelic session administers a measured dose of provocation. Rehearsed behavior is easy to perform, but psychedelics can ambushes you with material you cannot rehearse. Fear, grandiosity, or greed may surge. Either you blend with it and get swept away, or you unblend and hold firm. Fail once and it might be the occasion. Fail consistently and it's you.
+The test needs a classical psychedelic such as N,N-DMT, psilocybin, or LSD. These make inner experience more vivid and enticing, which is why bad trips happen. Datura is unsuitable because it causes genuine hallucinations that feel real and erases the memory. Sedatives are unsuitable because they dull the provocation. Empathogens such as MDMA are unsuitable because they soothe it.
+
+A session with a classical psychedelic administers a measured dose of provocation. Rehearsed behavior is easy to perform, but these substances can ambush you with material you cannot rehearse. Fear, grandiosity, or greed may surge. Either you blend with it and get swept away, or you unblend and hold firm. Fail once and it might be the occasion. Fail consistently and it's you.
 
 A community that can see who stays firm under pressure can choose better leaders. See [Incorruptible Institutions Need Incorruptible People First](https://brambles.joshuapritikin.com/posts/incorruptible-and-the-missing-mechanism/).
 
