@@ -1,0 +1,12 @@
+<section id="admin" data-client-id="{{ site.Params.googleClientId }}">
+  <div class="g_id_signin-slot"></div>
+  <p class="flash diagnostic" hidden></p>
+  <div class="admin-testimonials" hidden>
+    <h2>Pending testimonials</h2>
+    <div class="pending"></div>
+    <h2>Approved testimonials</h2>
+    <div class="approved"></div>
+  </div>
+</section>
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+{{ with resources.Get "admin.ts" | js.Build (dict "minify" true) }}<script src="{{ .RelPermalink }}" defer></script>{{ end }}

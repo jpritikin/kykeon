@@ -61,3 +61,4 @@ h1, h2, h3, h4, h5, h6 {
 .heading-copy {
   cursor: pointer;
 }
+.admin-testimonials blockquote button { margin:.5rem .5rem 0 0; }
