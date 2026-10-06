@@ -36,15 +36,13 @@ Knowing what's right and doing it under duress are different things. Therapists 
 
 So the special opportunity is measurement, not awakening: a way to measure Self-leadership. Questionnaires capture vocabulary, not behavior. A trained observer's judgment is slow, expensive, and varies between observers. Daily life provokes unpredictably.
 
-A psychedelic session administers a measured dose of provocation. Rehearsed behavior is easy to perform, but the experience ambushes you with material you cannot rehearse. Fear, grandiosity, or greed may surge. Either you blend with it and get swept away, or you unblend and hold steady. Fail once and it might be the occasion. Fail consistently and it's you.
+A psychedelic session administers a measured dose of provocation. Rehearsed behavior is easy to perform, but psychedelics can ambushes you with material you cannot rehearse. Fear, grandiosity, or greed may surge. Either you blend with it and get swept away, or you unblend and hold firm. Fail once and it might be the occasion. Fail consistently and it's you.
 
-A community that can see who stays steady under pressure can choose better leaders. See [Incorruptible Institutions Need Incorruptible People First](https://brambles.joshuapritikin.com/posts/incorruptible-and-the-missing-mechanism/).
+A community that can see who stays firm under pressure can choose better leaders. See [Incorruptible Institutions Need Incorruptible People First](https://brambles.joshuapritikin.com/posts/incorruptible-and-the-missing-mechanism/).
 
 ## Mutual Dependency
 
-Politics safeguards religious freedom: without laws and officials who protect the right to gather, worship, and use sacraments, no church survives. But politics is only as trustworthy as the people who hold power.
-
-Leaders whose character has been tested in the rite are the ones worth trusting with that power. In turn, they protect the freedom that makes the rite possible.
+Politics safeguards religious freedom: without laws and officials who protect the right to gather, worship, and use sacraments, no church survives. But politics is only as trustworthy as the people who hold power. Leaders whose character has been tested in the rite are the ones worth trusting with that power. In turn, they protect the freedom that makes the rite possible.
 
 ## Celebration
 
