@@ -53,3 +53,11 @@ blockquote cite::before { content:"— "; }
   header nav.open { display:flex; }
   header nav a { margin:0; padding:.5rem 0; }
 }
+
+h1, h2, h3, h4, h5, h6 {
+  scroll-margin-top: 6rem;
+}
+
+.heading-copy {
+  cursor: pointer;
+}
