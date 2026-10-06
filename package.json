@@ -3,6 +3,11 @@
   "private": true,
   "scripts": {
     "dev": "hugo server --disableFastRender",
-    "build": "hugo --minify"
+    "build": "tsc && hugo --minify",
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261006.1",
+    "typescript": "^7.0.2"
   }
 }

@@ -1,6 +1,8 @@
-<section class="signup">
+<section class="signup" id="signup">
   <h2>Hear the heralds</h2>
-  <p>Announcements, gatherings, and the occasional oracle. No spam; leave any time.</p>
+  <p>Announcements, gatherings, and the occasional oracle. Your address is stored privately and never sold or shared.</p>
+  <p class="flash" data-status-ok hidden>You are on the list. The heralds will find you.</p>
+  <p class="flash" data-status-invalid hidden>That address didn't look right. Try again?</p>
   <form method="post" action="/api/subscribe">
     <input type="email" name="email" placeholder="you@example.com" required aria-label="Email address">
     <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">

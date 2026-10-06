@@ -8,14 +8,14 @@
 </head>
 <body>
   <header>
-    <a class="brand" href="/">⚱ Kykeon Church</a>
+    <a class="brand" href="/">⚱ Second Church of the Kykeon</a>
     <nav>{{ range .Site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}</nav>
   </header>
   <div class="meander"></div>
   <main>{{ block "main" . }}{{ end }}</main>
+  {{ with resources.Get "status.ts" | js.Build (dict "minify" true) }}<script src="{{ .RelPermalink }}"></script>{{ end }}
   <footer>
-    <p>Kykeon Church · Eleusis, by way of the internet</p>
-    <p><a href="/leadership/">Who's in charge? (It's complicated.)</a></p>
+    <p>© 2026 Joshua N. Pritikin. All rights reserved.</p>
   </footer>
 </body>
 </html>

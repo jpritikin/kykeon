@@ -1,5 +1,9 @@
 {{ define "main" }}
-{{ partial "leadership-notice.html" . }}
 <article>{{ .Content }}</article>
-{{ partial "signup-form.html" . }}
+<section id="testimonials" hidden>
+  <h2>Testimonials</h2>
+  <div class="testimonial-list"></div>
+  <p><a href="/sacrament/#testimonials">Add your words.</a></p>
+</section>
+{{ with resources.Get "testimonials.ts" | js.Build (dict "minify" true) }}<script src="{{ .RelPermalink }}"></script>{{ end }}
 {{ end }}
