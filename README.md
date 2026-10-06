@@ -14,6 +14,8 @@ The signup and testimonial forms need Cloudflare Functions and don't work locall
 
 Connect the repository to Cloudflare Pages with build command `npm run build` (typechecks, then runs `hugo --minify`) and output directory `public`. Bind a D1 database as `DB` and run `migrations/0001_init.sql` in it.
 
+Create a Cloudflare Turnstile widget for kykeon.church. Put its site key in `hugo.toml` (`turnstileSiteKey`) and add its secret key as the Pages secret `TURNSTILE_SECRET`.
+
 ## Copyright
 
 © 2026 Joshua N. Pritikin. All rights reserved.

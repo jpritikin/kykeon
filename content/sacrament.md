@@ -16,6 +16,7 @@ Testimonials gather what is said about the experience of the sacrament, in the t
   <label>Name or pseudonym (optional)<input type="text" name="name" maxlength="80"></label>
   <label>Your words<textarea name="body" rows="8" maxlength="4000" required></textarea></label>
   <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+  {{< turnstile >}}
   <button>Submit</button>
 </form>
 

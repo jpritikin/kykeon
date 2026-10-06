@@ -3,6 +3,9 @@ locale = "en-us"
 title = "Second Church of the Kykeon"
 disableKinds = ["taxonomy", "term"]
 
+[params]
+  turnstileSiteKey = "REPLACE_WITH_TURNSTILE_SITE_KEY"
+
 [menus]
   [[menus.main]]
     name = "Leadership"
