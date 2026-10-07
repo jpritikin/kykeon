@@ -7,7 +7,7 @@ export const onRequestGet: PagesFunction<Env> = async ({ request, env }) => {
   const reason = await denialReason(request, env);
   if (reason) return forbidden(reason);
   const { results } = await env.DB.prepare(
-    "SELECT id, name, body, approved FROM testimonials ORDER BY approved, created_at DESC",
+    "SELECT id, name, body, seeds, thh_mg, approved FROM testimonials ORDER BY approved, created_at DESC",
   ).all();
   return Response.json(results);
 };

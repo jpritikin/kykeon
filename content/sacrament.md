@@ -8,12 +8,14 @@ The sacrament is currently in beta test. Read the full protocol, including contr
 
 ## Testimonials
 
-Testimonials gather what is said about the experience of the sacrament, in the third person. **Please do not explicitly admit to having tried anything.** Do not describe your own acts of preparation or consumption, even under a pseudonym. Avoid identifying information (names, places, dates) about yourself and others. Submissions are reviewed before anything is published.
+Testimonials gather what is said about the experience of the sacrament, in the third person. **Please do not explicitly admit to having tried anything.** Do not describe your own acts of preparation or consumption, even under a pseudonym. Avoid identifying information (names, places, dates) about yourself and others. The optional fields record the amounts associated with the experience you describe, and may be left blank. Submissions are reviewed before anything is published.
 
 <p class="flash" data-status-ok hidden>Thank you. Your words will be read before anything is published.</p>
 <p class="flash" data-status-invalid hidden>Something was missing or too long. Try again?</p>
 <form class="testimonial" method="post" action="/api/testimonial">
   <label>Name or pseudonym (optional)<input type="text" name="name" maxlength="80"></label>
+  <label>Hawaiian baby woodrose seeds (optional)<input type="number" name="seeds" min="0" step="1"></label>
+  <label>Tetrahydroharmine co-administered, in mg (optional)<input type="number" name="thh_mg" min="0" step="any"></label>
   <label>Your words<textarea name="body" rows="8" maxlength="4000" required></textarea></label>
   <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
   {{< turnstile >}}

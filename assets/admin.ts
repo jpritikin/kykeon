@@ -1,6 +1,6 @@
-export {};
+import { renderQuote, type Testimonial } from "./quote";
 
-type Entry = { id: number; name: string | null; body: string; approved: number };
+type Entry = Testimonial & { id: number; approved: number };
 type Action = "approve" | "unapprove" | "delete";
 type GoogleIdentity = {
   accounts: {
@@ -36,14 +36,9 @@ const actionButton = (label: string, id: number, action: Action) => {
   return button;
 };
 
-const render = ({ id, name, body, approved }: Entry) => {
-  const quote = document.createElement("blockquote");
-  quote.textContent = body;
-  if (name) {
-    const cite = document.createElement("cite");
-    cite.textContent = name;
-    quote.appendChild(cite);
-  }
+const render = (entry: Entry) => {
+  const { id, approved } = entry;
+  const quote = renderQuote(entry);
   if (approved) quote.appendChild(actionButton("Unapprove", id, "unapprove"));
   else quote.appendChild(actionButton("Approve", id, "approve"));
   quote.appendChild(actionButton("Delete", id, "delete"));
