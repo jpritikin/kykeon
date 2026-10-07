@@ -21,7 +21,7 @@ These ideas come from Internal Family Systems (IFS), a form of therapy developed
 
 **Mental injury.** When an experience feels too threatening for the whole mind to bear, the mind *splits*. The part that felt the experience is cut off from the rest. Other parts may work hard to keep it locked away. A child punished for anger may exile the anger. A teenager teased for crying may exile their sadness.
 
-The exiled feelings don't vanish. They leak out as tension, sudden rage, anxiety, or a vague sense that something is missing. Healing means meeting the exile with the Self present, which frees its protectors too.
+The exiled feelings don't vanish. They leak out as tension, sudden rage, anxiety, or a vague sense that something is missing. Healing means witnessing the exile with the Self present, which frees its protectors too.
 
 ## Entheogens
 
@@ -39,7 +39,7 @@ Knowing what's right and doing it under pressure are different things. Therapist
 
 Self-leadership is easy to claim and hard to verify, so the question is how to measure it. Questionnaires capture vocabulary, not behavior. A trained observer's judgment is slow, expensive, and varies between observers. Daily life provokes at random, never the same way twice.
 
-A better test would reliably stir up your own material and watch what happens next. Classical psychedelics such as N,N-DMT, psilocybin, and LSD do this, which is also why bad trips happen. Other drug classes fail. Dissociatives such as ketamine detach you from the experience. Empathogens such as MDMA and kykeon soothe the provocation. Stimulants such as cocaine manufacture confidence instead of testing it.
+A better test would reliably stir up your own material and watch what happens next. Classical psychedelics such as N,N-DMT, psilocybin, and LSD do this, which is also why bad trips happen. Other drug classes are unsuitable. Dissociatives such as ketamine detach you from the experience. Empathogens such as MDMA and kykeon soothe the provocation. Stimulants such as cocaine manufacture confidence instead of testing it.
 
 The psychedelic dose is measured, but what it stirs up is not. Fear, grandiosity, or greed may surge. Either you blend with it and are swept away, or you remain unblended and hold firm.[^firmeza] The outcome depends on how you meet it, which is what makes it a test. Because you stay present and remembering,[^dose] being swept away is a failure of unblending, not a loss of agency. The test can be repeated, so one stumble does not settle anything. Fail once and it might be the occasion. Fail repeatedly and it's you.
 
@@ -57,14 +57,14 @@ A drug alone does not make a religion. Our shared purpose is the test of charact
 
 The test and the wider political order need each other. The test is open to anyone who holds or seeks power over others. The church is the proving ground, not the throne. The wider order is where leaders serve.
 
-Politics safeguards religious freedom: without laws and officials who protect the right to gather, worship, and use sacraments, no church survives. But politics is only as trustworthy as the people who hold power. Leaders whose Self-leadership has held firm are better candidates for that trust. In turn, they protect the freedom that makes the test possible. See [Incorruptible Institutions Need Incorruptible People First](https://brambles.joshuapritikin.com/posts/incorruptible-and-the-missing-mechanism/).
+Politics safeguards religious freedom: without laws and officials who protect the right to gather, worship, and use sacraments, no church survives. But politics is only as trustworthy as the people who hold power. Those whose Self-leadership has held firm are better candidates for that trust. In turn, they protect the freedom that makes the test possible. See [Incorruptible Institutions Need Incorruptible People First](https://brambles.joshuapritikin.com/posts/incorruptible-and-the-missing-mechanism/).
 
 ## Celebration
 
 The Second Church of the Kykeon celebrates healing, which prepares us for the test of character, and community, which makes the test's results something we can act on.
 
 [^firmeza]: The Santo Daime tradition calls this *firmeza*, firmness: Self-leadership under provocation.
-[^dose]: Dosage must be calibrated to support the test, not to launch into space.
+[^dose]: Dosage must leave you present enough to be tested.
 [^hart]: Hart, C. L. (2021). *Drug Use for Grown-Ups: Chasing Liberty in the Land of Fear*. Penguin Press.
 [^datura]: Pooja, V., Chaudhury, S., & Kumari, A. (2025). Toxic traditions: Unveiling the psychiatric and neurological dangers of datura poisoning. *Industrial Psychiatry Journal, 34*(3), 542–544.
 [^zolpidem]: Mittal, N., Mittal, R., & Gupta, M. C. (2021). Zolpidem for insomnia: A double-edged sword. A systematic literature review on zolpidem-induced complex sleep behaviors. *Indian Journal of Psychological Medicine, 43*(5), 373–381.
