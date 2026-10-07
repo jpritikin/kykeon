@@ -5,7 +5,7 @@
 body { margin:0; background:var(--bg); color:var(--ink); font:18px/1.65 Georgia, "Palatino Linotype", serif; }
 a { color:var(--accent); }
 .page { position:relative; }
-header { position:relative; display:flex; flex-wrap:wrap; gap:.5rem 2rem; justify-content:space-between; align-items:baseline; padding:1rem 1.5rem; background:var(--amphora); }
+header { position:relative; z-index:10; display:flex; flex-wrap:wrap; gap:.5rem 2rem; justify-content:space-between; align-items:baseline; padding:1rem 1.5rem; background:var(--amphora); }
 .brand { font:bold 1.5rem "Palatino Linotype", Palatino, Georgia, serif; text-decoration:none; color:var(--laurel); letter-spacing:.08em; text-transform:uppercase; }
 .kykeon { display:inline-grid; align-items:baseline; line-height:1; }
 .kykeon > * { grid-area:1/1; }
@@ -51,7 +51,7 @@ blockquote cite::before { content:"— "; }
   .short { display:inline; text-transform:none; }
   .menu-toggle { display:block; margin:0 0 0 auto; padding:.15rem .6rem; background:transparent; color:var(--laurel); border-color:var(--laurel); }
   .theme-toggle { margin:0; }
-  header nav { display:none; position:absolute; top:100%; right:1rem; z-index:10; flex-direction:column; min-width:12rem; padding:.5rem 1rem; background:var(--amphora); border:2px solid var(--laurel); border-top:0; }
+  header nav { display:none; position:absolute; top:calc(100% - .75rem); right:1rem; z-index:10; flex-direction:column; min-width:12rem; padding:.5rem 1rem; background:var(--amphora); border:2px solid var(--laurel); }
   header nav.open { display:flex; }
   header nav a { margin:0; padding:.5rem 0; }
 }
