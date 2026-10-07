@@ -21,6 +21,7 @@
     <main>{{ block "main" . }}{{ end }}</main>
   </div>
   {{ with resources.Get "heading-anchors.ts" | js.Build (dict "minify" true) }}<script src="{{ .RelPermalink }}"></script>{{ end }}
+  {{ with resources.Get "footnote-backrefs.ts" | js.Build (dict "minify" true) }}<script src="{{ .RelPermalink }}"></script>{{ end }}
   {{ with resources.Get "status.ts" | js.Build (dict "minify" true) }}<script src="{{ .RelPermalink }}"></script>{{ end }}
   <footer>
     <p>© 2026 Joshua N. Pritikin. All rights reserved.</p>
