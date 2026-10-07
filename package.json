@@ -3,7 +3,8 @@
   "private": true,
   "scripts": {
     "dev": "hugo server --disableFastRender",
-    "build": "tsc && hugo --minify",
+    "build": "tsc && npm run validate:links && hugo --minify",
+    "validate:links": "node scripts/validate-links.mjs",
     "typecheck": "tsc"
   },
   "devDependencies": {

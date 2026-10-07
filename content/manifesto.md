@@ -51,7 +51,7 @@ The test demands courage: material can ambush you while failure is witnessed. Co
 
 Kykeon showers our parts with grace. Held in grace, parts can develop trust in the Self. Shared in a circle, kykeon also begins the bond of vulnerability that holds a community together. It is the church's welcome: an ancient cup offered at the door to all.
 
-A drug alone does not make a religion. Our shared purpose is the test of character. Kykeon prepares us for it.
+A drug alone does not make a religion. Our shared purpose is the test of character. Kykeon prepares us for it. The test itself can be implemented by more than one tradition, which makes this a [modular religion](/modular/).
 
 ## Mutual Dependency
 
