@@ -2,11 +2,24 @@
   <h2>Hear the heralds</h2>
   <p>Announcements, gatherings, and the occasional oracle. Your address is stored privately and never sold or shared.</p>
   <p class="flash" data-status-ok hidden>You are on the list. The heralds will find you.</p>
-  <p class="flash" data-status-invalid hidden>That address didn't look right. Try again?</p>
+  <p class="flash" data-status-invalid hidden>That address didn't look right, or the book question went unanswered. Try again?</p>
   <form method="post" action="/api/subscribe">
     <input type="email" name="email" placeholder="you@example.com" required aria-label="Email address">
     <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <div class="book-copy" role="radiogroup" aria-labelledby="book-copy-question">
+      <p id="book-copy-question">A book is in preparation: <em>Sacraments Unburdened by Secrecy: The Kykeon and Other Entheogens</em>. Would you like a free copy in exchange for an honest review?</p>
+      <label><input type="radio" name="book_copy" value="yes"> Yes, send me a free copy</label>
+      <label><input type="radio" name="book_copy" value="no"> No, thank you</label>
+    </div>
     {{ partial "turnstile.html" . }}
     <button>Subscribe</button>
   </form>
+  <dialog class="book-copy-error">
+    <p>Before you subscribe: would you like a free copy of the book in exchange for an honest review?</p>
+    <div class="book-copy-choices">
+      <button type="button" class="book-copy-yes" data-book-copy="yes">Yes, please!</button>
+      <button type="button" class="book-copy-no" data-book-copy="no">No</button>
+    </div>
+  </dialog>
+  {{ with resources.Get "signup.ts" | js.Build (dict "minify" true) }}<script src="{{ .RelPermalink }}"></script>{{ end }}
 </section>

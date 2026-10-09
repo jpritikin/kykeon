@@ -1,7 +1,7 @@
 export type Testimonial = { name: string | null; body: string; seeds: number | null; thh_mg: number | null };
 
 const doseSummary = ({ seeds, thh_mg }: Testimonial) =>
-  [seeds != null && `${seeds} HBW seeds`, thh_mg != null && `${thh_mg} mg THH`].filter(Boolean).join(" · ");
+  [seeds != null && `${seeds} HBW seeds`, thh_mg != null && `${thh_mg} mg tetrahydroharmine`].filter(Boolean).join(" · ");
 
 const paragraph = (className: string, text: string) => {
   const element = document.createElement("p");

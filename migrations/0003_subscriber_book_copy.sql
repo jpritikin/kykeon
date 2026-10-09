@@ -1,0 +1,1 @@
+ALTER TABLE subscribers ADD COLUMN wants_book_copy INTEGER NOT NULL DEFAULT 0;

@@ -35,6 +35,18 @@ button:hover { background:var(--wine); }
 .theme-toggle { margin:0 0 0 auto; padding:.15rem .6rem; background:transparent; color:var(--laurel); border-color:var(--laurel); }
 .theme-toggle:hover { background:var(--laurel); color:var(--amphora); }
 .doses { font-size:.9rem; font-style:italic; margin:.5rem 0 0; }
+.book-copy { border:1px solid var(--gold); border-radius:3px; margin:1rem 0 0; padding:.5rem 1rem; }
+.book-copy p { margin:0 0 .5rem; }
+.book-copy label { margin-bottom:.25rem; }
+.book-copy-error { background:var(--panel); color:var(--ink); border:2px solid var(--wine); border-radius:4px; max-width:24rem; }
+.book-copy-choices { display:flex; gap:1rem; align-items:center; justify-content:center; }
+.book-copy-yes { font-size:1.3rem; padding:.7rem 2rem; background:var(--gold); color:var(--amphora); font-weight:bold; border-color:var(--wine); animation:book-copy-pulse 1.8s ease-in-out infinite; }
+@keyframes book-copy-pulse { 0%, 100% { transform:scale(1); box-shadow:0 0 8px var(--gold); } 50% { transform:scale(1.04); box-shadow:0 0 16px 2px var(--gold); } }
+@media (prefers-reduced-motion:reduce) { .book-copy-yes { animation:none; } }
+.book-copy-yes:hover { background:var(--terracotta); color:#fff; }
+.book-copy-no { background:transparent; color:var(--ink); border-color:var(--ink); }
+.book-copy-no:hover { background:var(--panel); }
+.book-copy-error::backdrop { background:rgb(0 0 0 / .6); }
 .hp { position:absolute; left:-9999px; }
 .flash { padding:.5rem 1rem; border-left:4px solid var(--accent); background:var(--panel); }
 footer { text-align:center; font-size:.85rem; padding:2rem 1rem; background:var(--amphora); color:#f3e6cc; border-top:4px solid var(--terracotta); }
