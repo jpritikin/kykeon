@@ -19,6 +19,8 @@ These ideas come from Internal Family Systems (IFS), a form of therapy developed
 
 **Blending and unblending.** When a part *blends* with you, you stop noticing it and start being it. You don't think "a part of me is afraid." You just are afraid, and the fear's view of the world is the only view. *Unblending* is stepping back so the part is something you can notice and talk to.
 
+**Emotional distance and steering.** Blending is not a switch but a matter of distance. At zero distance you are the part. A little farther back, the part is loud but you can say what it is feeling. Farther still, it waits quietly while you attend to other things. Holding a part at a distance until the time is right is *mental steering*. Steering that holds under provocation is *firmness*.
+
 **Mental injury.** When an experience feels too threatening for the whole mind to bear, the mind *splits*. The part that felt the experience is cut off from the rest. Other parts may work hard to keep it locked away. A child punished for anger may exile the anger. A teenager teased for crying may exile their sadness.
 
 The exiled feelings don't vanish. They leak out as tension, sudden rage, anxiety, or a vague sense that something is missing. Healing means witnessing the exile with the Self present, which frees its protectors too.
@@ -41,9 +43,11 @@ Self-leadership is easy to claim and hard to verify, so the question is how to m
 
 A better test would reliably stir up your own material and watch what happens next. Classical psychedelics such as N,N-DMT, psilocybin, and LSD do this, which is also why bad trips happen. Other drug classes are unsuitable. Dissociatives such as ketamine detach you from the experience. Empathogens such as MDMA and kykeon soothe the provocation. Stimulants such as cocaine manufacture confidence instead of testing it.
 
-The psychedelic dose is measured, but what it stirs up is not. Fear, grandiosity, or greed may surge. Either you blend with it and are swept away, or you remain unblended and hold firm.[^firmeza] The outcome depends on how you meet it, which is what makes it a test. Because you stay present and remembering,[^dose] being swept away is a failure of unblending, not a loss of agency. The test can be repeated, so one stumble does not settle anything. Fail once and it might be the occasion. Fail repeatedly and it's you.
+The psychedelic dose is measured, but what it stirs up is not. Fear, grandiosity, or greed may surge. Either you blend with it and are swept away, or your steering holds and you remain firm.[^firmeza] The outcome depends on how you meet it, which is what makes it a test. Because you stay present and remembering,[^dose] being swept away is a failure of unblending, not a loss of agency. The test can be repeated, so one stumble does not settle anything. Fail once and it might be the occasion. Fail repeatedly and it's you.
 
 Taking the test is voluntary. Those who aspire to lead can distinguish themselves by taking it. Declining carries no penalty, but it forfeits that distinction. The circle witnesses the result and may weigh the difference.
+
+The test is a diagnostic, not a treatment. It does not confer integrity. It reveals whether someone already has it.
 
 ## The Role of Kykeon
 
