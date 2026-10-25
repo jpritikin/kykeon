@@ -36,6 +36,7 @@ button:hover { background:var(--wine); }
 .theme-toggle:hover { background:var(--laurel); color:var(--amphora); }
 .doses { font-size:.9rem; font-style:italic; margin:.5rem 0 0; }
 .book-copy { border:1px solid var(--gold); border-radius:3px; margin:1rem 0 0; padding:.5rem 1rem; }
+.book-cover { display:block; max-width:100%; height:auto; margin:0 auto .75rem; border:1px solid var(--gold); box-shadow:0 2px 8px rgb(0 0 0 / .4); }
 .book-copy p { margin:0 0 .5rem; }
 .book-copy label { margin-bottom:.25rem; }
 .book-copy-error { background:var(--panel); color:var(--ink); border:2px solid var(--wine); border-radius:4px; max-width:24rem; }
