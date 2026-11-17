@@ -4,7 +4,7 @@ title = "Second Church of the Kykeon"
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  googleClientId = "427532768256-9qa939sou6cft90ji3egha9qe7s01l7m.apps.googleusercontent.com"
+  googleClientId = "533413562594-jbmbl8vc8p5gcn0atpl6kje7iflffpbh.apps.googleusercontent.com"
   turnstileSiteKey = "0x4AAAAAAFO-RBZK6xpHv_PX"
 
 [menus]
