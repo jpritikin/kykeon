@@ -51,12 +51,16 @@ const fill = (selector: string, entries: Entry[]) => {
   if (!entries.length) target.textContent = "None.";
 };
 
+const showFailure = async (what: string, response: Response) => {
+  diagnostic.textContent = `${what} (${response.status}): ${(await response.text()) || response.statusText}`;
+  diagnostic.hidden = false;
+};
+
 const load = async () => {
   const response = await call("GET");
   if (!response.ok) {
     buttonSlot.hidden = false;
-    diagnostic.textContent = `Admin access failed (${response.status}): ${(await response.text()) || response.statusText}`;
-    diagnostic.hidden = false;
+    await showFailure("Admin access failed", response);
     panel.hidden = true;
     return;
   }
@@ -66,6 +70,15 @@ const load = async () => {
   buttonSlot.hidden = true;
   diagnostic.hidden = true;
   panel.hidden = false;
+};
+
+const form = root.querySelector<HTMLFormElement>(".add-testimonial")!;
+form.onsubmit = async (event) => {
+  event.preventDefault();
+  const response = await call("PUT", Object.fromEntries(new FormData(form)));
+  if (!response.ok) return showFailure("Could not add the testimonial", response);
+  form.reset();
+  await load();
 };
 
 const start = () => {

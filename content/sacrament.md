@@ -8,19 +8,9 @@ The sacrament is currently in beta test. Read the full protocol, including contr
 
 ## Testimonials
 
-Testimonials gather what is said about the experience of the sacrament, in the third person. **Please do not explicitly admit to having tried anything.** Do not describe your own acts of preparation or consumption, even under a pseudonym. Avoid identifying information (names, places, dates) about yourself and others. The optional fields record the amounts associated with the experience you describe, and may be left blank. Submissions are reviewed before anything is published.
+The church gathers what members say about the sacrament by interviewing them personally. Accounts appear on the [home page](/). We are not trying to mislead, but we have a stake in the outcome and we choose which accounts to publish, so expect some bias.
 
-<p class="flash" data-status-ok hidden>Thank you. Your words will be read before anything is published.</p>
-<p class="flash" data-status-invalid hidden>Something was missing or too long. Try again?</p>
-<form class="testimonial" method="post" action="/api/testimonial">
-  <label>Name or pseudonym (optional)<input type="text" name="name" maxlength="80"></label>
-  <label>Hawaiian baby woodrose seeds (optional)<input type="number" name="seeds" min="0" step="1"></label>
-  <label>Tetrahydroharmine co-administered, in mg (optional)<input type="number" name="thh_mg" min="0" step="any"></label>
-  <label>Your words<textarea name="body" rows="8" maxlength="4000" required></textarea></label>
-  <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
-  {{< turnstile >}}
-  <button>Submit</button>
-</form>
+For a larger record that is independent of the church, consider [Erowid reports on Hawaiian baby woodrose](https://www.erowid.org/experiences/subs/exp_HB_Woodrose_General.shtml). Those reports are self-selected too, and they are mostly about the seeds themselves. Our protocol adds the aldehydes of young barley grass and an ALDH blocker, which turn the ergine into kykeon. That territory is largely unexplored on Erowid.
 
 ## The Case for an RFRA Exception
 
