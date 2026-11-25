@@ -2,6 +2,7 @@
 <article>{{ .Content }}</article>
 <section id="testimonials" hidden>
   <h2>Testimonials</h2>
+  <select class="testimonial-picker" aria-label="Choose a testimonial"></select>
   <div class="testimonial-list"></div>
 </section>
 {{ with resources.Get "testimonials.ts" | js.Build (dict "minify" true) }}<script src="{{ .RelPermalink }}"></script>{{ end }}
