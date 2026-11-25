@@ -16,7 +16,11 @@ const show = (entries: Testimonial[]) => {
   entries.forEach((entry) => picker.add(new Option(excerpt(entry), String(entry.id))));
   const render = () => {
     const entry = entries.find((candidate) => String(candidate.id) === picker.value)!;
-    display.replaceChildren(renderQuote(entry));
+    const permalink = document.createElement("a");
+    permalink.className = "permalink";
+    permalink.href = `#testimonial=${entry.id}`;
+    permalink.textContent = "Link to this testimonial";
+    display.replaceChildren(renderQuote(entry), permalink);
   };
   const select = () => {
     const id = hashId();

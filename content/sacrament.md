@@ -4,13 +4,7 @@ title: Sacrament
 
 Our sacrament is the kykeon, the drink of the Eleusinian Mysteries. Aspirants must [join the church](/membership/) before using the sacrament.
 
-The sacrament is currently in beta test. Read the full protocol, including contraindications, at the [Stahl Shrine](https://brambles.joshuapritikin.com/docs/psychoactive/stahl-shrine/).
-
-## Testimonials
-
-The church gathers what members say about the sacrament by interviewing them personally. Accounts appear on the [home page](/). We are not trying to mislead, but we have a stake in the outcome and we choose which accounts to publish, so expect some bias.
-
-For a larger record that is independent of the church, consider [Erowid reports on Hawaiian baby woodrose](https://www.erowid.org/experiences/subs/exp_HB_Woodrose_General.shtml). Those reports are self-selected too, and they are mostly about the seeds themselves. Our protocol adds the aldehydes of young barley grass and an ALDH blocker, which turn the ergine into kykeon. That territory is largely unexplored on Erowid.
+The sacrament is currently in beta test. Read the full protocol, including contraindications, at the [Stahl Shrine](https://brambles.joshuapritikin.com/docs/psychoactive/stahl-shrine/). Members' accounts of the sacrament are on the [home page](/#testimonials).
 
 ## The Case for an RFRA Exception
 

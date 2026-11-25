@@ -1,0 +1,8 @@
+name = "kykeon-church"
+pages_build_output_dir = "public"
+compatibility_date = "2026-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kykeon"
+database_id = "38d0eaec-0d25-4f41-b967-5da8473100f7"

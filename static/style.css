@@ -78,3 +78,4 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 .admin-testimonials blockquote button { margin:.5rem .5rem 0 0; }
+.permalink { display:block; font-size:.85rem; margin-bottom:1rem; }
