@@ -45,7 +45,7 @@ The drugs that remain play three roles. *Tuning forks* sound one clean state, su
 
 Knowing what's right and doing it under pressure are different things. Therapists feed their own need to be needed. Judges sentence from irritation. Police escalate because adrenaline is doing the thinking. Parents pass their unprocessed trauma to their children. Each holds power over the vulnerable. What's missing is unblending: noticing what you feel and choosing your response instead of letting the feeling drive. When that holds under provocation, we call it firmness.
 
-The stakes rise with power. Before the Tenerife runway collision, Chernobyl, and the Challenger launch, someone's doubt, reluctance, or warning was already on record. What was missing was the firmness to stay unblended.
+The stakes rise with power. Before the Tenerife runway collision, Chernobyl, and the Challenger launch, someone's doubt, reluctance, or warning was already on record. What was missing was the firmness to heed it.
 
 Firmness is easy to claim and hard to verify, so the question is how to measure it. Questionnaires capture vocabulary, not behavior. A trained observer's judgment is slow, expensive, and varies between observers. Daily life provokes at random, never the same way twice.
 
@@ -79,7 +79,7 @@ Politics safeguards religious freedom: without laws and officials who protect th
 
 The Second Church of the Kykeon celebrates healing, which prepares us for the test of character, and community, which makes the test's results something we can act on.
 
-One firm person steadies a household. One with power steadies everyone who depends on them. Doubts are voiced and heeded, a mistake is owned the day it is made, and the attention once spent guarding against betrayal goes to flourishing. That is the age of wonder. People can stop bracing and look up. The spirits prefer simplicity, and so does this idea: be firm.
+One firm person steadies a household. One with power steadies everyone who depends on them. Doubts are voiced and heeded, a mistake is owned the day it is made, and the attention once spent guarding against betrayal goes to flourishing. People can stop bracing and look up.
 
 [^firmeza]: The Santo Daime tradition calls this *firmeza*, firmness: Self-leadership under provocation.
 [^dose]: Dosage must leave you present enough to be tested.
