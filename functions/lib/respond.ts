@@ -8,5 +8,5 @@ export type Env = {
 export const redirectWithStatus = (request: Request, path: string, status: "ok" | "invalid") => {
   const url = new URL(path, request.url);
   url.searchParams.set("status", status);
-  return Response.redirect(url, 303);
+  return Response.redirect(url.toString(), 303);
 };

@@ -3,9 +3,9 @@
   "private": true,
   "scripts": {
     "dev": "hugo server --disableFastRender",
-    "build": "tsc && npm run validate:links && hugo --minify",
+    "build": "npm run typecheck && npm run validate:links && hugo --minify",
     "validate:links": "node scripts/validate-links.mjs",
-    "typecheck": "tsc"
+    "typecheck": "tsc -p functions && tsc -p assets"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20261006.1",

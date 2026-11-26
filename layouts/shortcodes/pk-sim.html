@@ -1,0 +1,2 @@
+<div id="pk-sim"></div>
+{{ with resources.Get "pk-sim.ts" | js.Build (dict "minify" true) }}<script src="{{ .RelPermalink }}"></script>{{ end }}

@@ -10,6 +10,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/icon-16.png">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="manifest" href="/site.webmanifest">
+  {{ if .Params.noindex }}<meta name="robots" content="noindex">{{ end }}
   <link rel="stylesheet" href="/style.css">
   {{ with resources.Get "theme.ts" | js.Build (dict "minify" true) }}<script src="{{ .RelPermalink }}"></script>{{ end }}
 {{ template "_internal/google_analytics.html" . }}
