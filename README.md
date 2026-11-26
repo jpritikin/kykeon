@@ -18,7 +18,7 @@ Create a Cloudflare Turnstile widget for kykeon.church. Put its site key in `hug
 
 ## Admin
 
-The leadership page has a Google sign-in that lets allowlisted admins add, approve, unapprove, and delete testimonials. Create an OAuth 2.0 Web client ID in Google Cloud Console with `https://kykeon.church` as an authorized JavaScript origin. Put the client ID in `hugo.toml` (`googleClientId`) and also set it as the Pages variable `GOOGLE_CLIENT_ID`. Set the Pages variable `ADMIN_EMAILS` to a comma-separated list of admin Google addresses. The functions verify the ID token server-side on every request.
+The leadership page has a Google sign-in that lets allowlisted admins add, approve, unapprove, and delete testimonials. Create an OAuth 2.0 Web client ID in Google Cloud Console with `https://kykeon.church` as an authorized JavaScript origin. Put the client ID in `hugo.toml` (`googleClientId`) and also in the `[vars]` table of `wrangler.toml` as `GOOGLE_CLIENT_ID`. Set `ADMIN_EMAILS` in `[vars]` to a comma-separated list of admin Google addresses. Because `wrangler.toml` is the source of truth for this Pages project, non-secret variables live there, and the dashboard's Variables and Secrets page is only for secrets such as `TURNSTILE_SECRET`. Redeploy after changing either. The functions verify the ID token server-side on every request.
 
 ## Daily Report
 

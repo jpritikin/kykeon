@@ -2,6 +2,10 @@ name = "kykeon-church"
 pages_build_output_dir = "public"
 compatibility_date = "2026-11-01"
 
+[vars]
+GOOGLE_CLIENT_ID = "533413562594-jbmbl8vc8p5gcn0atpl6kje7iflffpbh.apps.googleusercontent.com"
+ADMIN_EMAILS = "jpritikin73@gmail.com"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "kykeon"
