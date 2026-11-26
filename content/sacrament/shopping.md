@@ -20,7 +20,7 @@ If you also need a grinder then you might consider:
 
 Check your state regulations for sourcing ethyl alcohol:
 
-- [Ethyl Alcohol 99.5% Denatured 40-B 200 Proof Alcohol](https://a.co/d/0g1jPMN2)
+- Everclear 190 proof
 
 ## Hypothetical Cost
 
