@@ -5,12 +5,12 @@ sitemap:
   disable: true
 ---
 
-- [HBRW (Hawaiian baby woodrose)](https://www.hawaiianbabywoodrose.com). If out of stock, [O'Neill Seeds](https://oneillseeds.com/collections/flower-seeds/products/hawaiian-baby-woodrose-seeds-organic-and-untreated-hbwr) is another option at 2-3x the cost.
+- [Hawaiian baby woodrose](https://www.hawaiianbabywoodrose.com) has great prices. If out of stock, [O'Neill Seeds](https://oneillseeds.com/collections/flower-seeds/products/hawaiian-baby-woodrose-seeds-organic-and-untreated-hbwr) is another option but at 2-3x the cost. Ensure you purchase UNTREATED seeds. Some vendors sell seeds that are coated with pesticide.
 - [Tartaric acid](https://a.co/d/0cx3Wtmd)
-- [Barley grass](https://www.amazon.com/stores/NIHONYAKKEN/page/3FE7CF55-C548-46A1-9305-EF61C36BD113) If out of stock, try [Ebay](https://www.ebay.com/sch/i.html?_nkw=aojiru). \
+- Individually sealed packets of [barley grass powder](https://www.amazon.com/stores/NIHONYAKKEN/page/3FE7CF55-C548-46A1-9305-EF61C36BD113). If out of stock, try [Ebay](https://www.ebay.com/sch/i.html?_nkw=aojiru). \
  ![Original](/sacrament/plain.webp) **OR** ![Veggie](/sacrament/veggie.webp)
-- [Kudzu extract](https://www.naturalpharmacia.com/product-page/alkontrol-herbal)
-- [Quercetin](https://a.co/d/08qMpazQ)
+- [Kudzu extract](https://www.naturalpharmacia.com/product-page/alkontrol-herbal) is simpler than quercetin because you don't need to measure.
+- [Quercetin](https://a.co/d/08qMpazQ) is slightly cheaper than kudzu extract.
 
 You don't need both kudzu extract and quercetin. Pick one or the other.
 
