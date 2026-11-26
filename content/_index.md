@@ -2,6 +2,6 @@
 title: Second Church of the Kykeon
 ---
 
-*Chaire*, traveler. The first church of the kykeon was the [Eleusinian Mysteries](https://eleusinianmysteries.org), which ran for roughly two thousand years. We are the second.
+<big>*Chaire*, traveler. The first church of the kykeon was the [Eleusinian Mysteries](https://eleusinianmysteries.org), which ran for roughly two thousand years. We are the second.</big>
 
-We use the kykeon to prepare for and celebrate the discovery of a way to measure Self-leadership, and so to select trustworthy leaders. [Read our manifesto](/manifesto/) or learn about [the sacrament](/sacrament/). If you feel moved to join, there is [one simple criterion](/membership/).
+We use the kykeon to prepare for and celebrate the discovery of a way to measure firmness under provocation, and so to find trustworthy leaders. [Read our manifesto](/manifesto/) or learn about [the sacrament](/sacrament/). If you feel moved to join, there is [one simple criterion](/membership/).

@@ -24,7 +24,7 @@ church = Church(backend=SantoDaime())
 
 ## The Reference Implementation
 
-Santo Daime already does this. A Daime work provokes with ayahuasca, and the tradition has a name for passing: *firmeza*. Decades of battle-testing is hard to beat, so we treat it as the reference implementation.
+Santo Daime already does this. A Daime work provokes with ayahuasca, and the tradition has a name for passing: *firmeza*. Decades of battle-testing is hard to beat, so we treat it as the reference implementation. For American readers there is a legal reason too: Santo Daime has already won its RFRA case, and delegating the test to a religion already vindicated carries less risk than defending a test of our own.
 
 ## Other Backends
 
@@ -32,7 +32,7 @@ Nothing about firmness belongs to the Daime. Another tradition could implement t
 
 ## What Stays the Same
 
-Kykeon, the circle, and the healing that prepares us stay the same whichever backend you plug in. That's ours.
+Kykeon is the wrapper around the plugin, preparing you beforehand and bonding the circle that watches. Kykeon, the circle, and the healing that prepares us stay the same whichever backend you plug in. That's ours.
 
 Alcoholics Anonymous sets a similar precedent. The twelve steps and the fellowship are fixed, while the higher power is "God as we understood Him."[^aa] Different slot, same design pattern. 🤓
 

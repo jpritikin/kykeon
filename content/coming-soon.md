@@ -10,7 +10,7 @@ Membership stays free and rests on one criterion: you can [meditate effortlessly
 
 ## The Map of Fellow Pilgrims
 
-Advocates may choose to appear on a map, showing only a rough area. You can ask to meet another pilgrim in person, and contact details change hands only when both of you agree. The map is off until you turn it on.
+Advocates may choose to appear on a map, showing only a rough area. You can ask to meet another pilgrim in person, and contact details change hands only when both of you agree. The test of character needs a circle of peers, so the map is also how scattered pilgrims find one another. The map is off until you turn it on.
 
 ## Festivals
 
