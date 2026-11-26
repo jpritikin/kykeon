@@ -9,7 +9,7 @@ This manifesto is the short version of a book in preparation, *Sacraments Unburd
 
 ## Drugs
 
-Using drugs is a human right.[^hart] But a drug taken as a sacrament asks for more, because a sacrament is a promise about what happens inside a person. Ours promises to support the flourishing of society through the change it works in each person. The test of character below is how anyone can check that the promise is kept. The practice has three parts: personal healing, the circle, and the test.
+Using drugs is a human right.[^hart] But a drug taken as a sacrament asks for more, because a sacrament is a promise about what happens inside a person. Ours promises to support the flourishing of society. The test of character below is how anyone can check that the promise is kept. The practice has three parts: personal healing, the circle, and the test.
 
 Psychedelic culture has long hoped these substances were a shortcut to a better world: dissolve enough egos and cruelty gives way to empathy. The evidence is mixed at best. People have profound experiences, feel connected to everything, and go back to work on Monday largely unchanged. Insight, it turns out, is not the same as the ability to act under pressure. What matters is not dissolving the ego, a term explained below, but the trust of its parts in the Self to lead.
 
@@ -55,7 +55,7 @@ The psychedelic dose is measured, but what it stirs up is not. Fear, grandiosity
 
 Taking the test is voluntary, and we do not propose making it a requirement for holding office. Those who aspire to lead can distinguish themselves by taking it, and the circle may weigh the difference. We ask only that power answer to evidence of conduct, such as how someone treats the people who depend on them and how they take criticism.
 
-The test is a diagnostic, not a treatment. It does not confer integrity. It reveals whether someone already has it, and can guide the parts work that strengthens it.
+The test is a diagnostic, not a treatment. It does not confer integrity. It reveals whether someone already has it, and can guide the parts work that strengthens it. The test itself can be implemented by more than one tradition, which makes this a [modular religion](/modular/).
 
 ## The Role of Kykeon
 
@@ -65,24 +65,23 @@ Kykeon showers our parts with grace. Held in grace, parts can develop trust in t
 
 Kykeon is also the most extravagantly euphoric drug we know, which makes it the easiest to indulge. Without a purpose, it becomes the Friday-night couch on a grand scale. The test gives the euphoria a job.
 
-A drug alone does not make a religion. Our shared purpose is the test of character. Kykeon warms the hands, but the climb is ours. The test itself can be implemented by more than one tradition, which makes this a [modular religion](/modular/).
+## Mutual Support
 
-## Mutual Dependency
+The test and the wider political order can strengthen each other. The test is open to anyone who holds or seeks power over others. The church is the proving ground, not the throne. The wider order is where leaders serve.
 
-The test and the wider political order need each other. The test is open to anyone who holds or seeks power over others. The church is the proving ground, not the throne. The wider order is where leaders serve.
+Why not rely on institutional design alone?[^incorruptible] Every bylaw, mission lock, and ownership trust is enforceable only because a legal system backs it, and a legal system is an institution run by people who can look away. Structure moves the problem without solving it. The leverage point is whether the person holding power can feel the pull of self-interest, fear, or ambition and not go under.
 
-Why not rely on institutional design alone? Every bylaw, mission lock, and ownership trust is enforceable only because a legal system backs it, and a legal system is an institution run by people who can look away. Structure moves the problem without solving it. The leverage point is whether the person holding power can feel the pull of self-interest, fear, or ambition and not go under.
-
-Politics safeguards religious freedom: without laws and officials who protect the right to gather, worship, and use sacraments, no church survives. But politics is only as trustworthy as the people who hold power. Those whose Self-leadership has held firm are better candidates for that trust. In turn, they protect the freedom that makes the test possible. See [Incorruptible Institutions Need Incorruptible People First](https://brambles.joshuapritikin.com/posts/incorruptible-and-the-missing-mechanism/).
+Politics safeguards religious freedom: without laws and officials who protect the right to gather, worship, and use sacraments, no church survives. But politics is only as trustworthy as the people who hold power. Those whose Self-leadership has held firm are better candidates for that trust. In turn, they protect the freedom that makes the test possible.
 
 ## Celebration
 
 The Second Church of the Kykeon celebrates healing, which prepares us for the test of character, and community, which makes the test's results something we can act on.
 
-One firm person steadies a household. One with power steadies everyone who depends on them. Doubts are voiced and heeded, a mistake is owned the day it is made, and the attention once spent guarding against betrayal goes to flourishing. People can stop bracing and look up.
+One firm person steadies a household. One with power steadies everyone who depends on them. Doubts are voiced and heeded, a mistake is owned the day it is made, and the attention once spent guarding against betrayal can turn toward the sun. People can stop bracing and look up.
 
 [^firmeza]: The Santo Daime tradition calls this *firmeza*, firmness: Self-leadership under provocation.
 [^dose]: Dosage must leave you present enough to be tested.
+[^incorruptible]: See [Incorruptible Institutions Need Incorruptible People First](https://brambles.joshuapritikin.com/posts/incorruptible-and-the-missing-mechanism/).
 [^hart]: Hart, C. L. (2021). *Drug Use for Grown-Ups: Chasing Liberty in the Land of Fear*. Penguin Press.
 [^datura]: Pooja, V., Chaudhury, S., & Kumari, A. (2025). Toxic traditions: Unveiling the psychiatric and neurological dangers of datura poisoning. *Industrial Psychiatry Journal, 34*(3), 542–544.
 [^zolpidem]: Mittal, N., Mittal, R., & Gupta, M. C. (2021). Zolpidem for insomnia: A double-edged sword. A systematic literature review on zolpidem-induced complex sleep behaviors. *Indian Journal of Psychological Medicine, 43*(5), 373–381.

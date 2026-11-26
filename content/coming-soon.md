@@ -6,7 +6,7 @@ The scaffolding is up around the temple. Here is what the builders have planned.
 
 ## Advocates
 
-Membership stays free and rests on one criterion: you can [meditate effortlessly for 15 minutes](/membership/). Advocates are friends of the church who choose to support it with a small annual gift. It buys the extras below.
+Membership stays free and rests on one criterion: [meditation without effort, for 15 minutes](/membership/). Advocates are friends of the church who choose to support it with a small annual gift. It buys the extras below.
 
 ## The Map of Fellow Pilgrims
 
