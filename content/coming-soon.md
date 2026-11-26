@@ -12,7 +12,7 @@ Membership stays free and rests on one criterion: you can [meditate effortlessly
 
 Advocates may choose to appear on a map, showing only a rough area. You can ask to meet another pilgrim in person, and contact details change hands only when both of you agree. The map is off until you turn it on.
 
-## The Festival
+## Festivals
 
 One-day kykeon festivals in a city near you. The sacrament will be shared there, as it was at Eleusis. Tickets will be named and non-transferable, so no scalpers get between you and the barley.
 

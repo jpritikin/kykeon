@@ -3,6 +3,10 @@ title: Manifesto
 aliases: [/philosophy/]
 ---
 
+{{< book-cover >}}
+
+This manifesto is the short version of a book in preparation, *Sacraments Unburdened by Secrecy: The Kykeon and Other Entheogens*. The book gives the full argument, the evidence, and the stories behind it. See the [membership page](/membership/) if you would like a free copy in exchange for an honest review.
+
 ## Drugs
 
 Using drugs is a human right.[^hart] But religious use asks for more. Ours has three parts: personal healing, the circle, and a test of character.

@@ -37,7 +37,8 @@ button:hover { background:var(--wine); }
 .theme-toggle:hover { background:var(--laurel); color:var(--amphora); }
 .doses { font-size:.9rem; font-style:italic; margin:.5rem 0 0; }
 .book-copy { border:1px solid var(--gold); border-radius:3px; margin:1rem 0 0; padding:.5rem 1rem; }
-.book-cover { display:block; max-width:100%; height:auto; margin:0 auto .75rem; border:1px solid var(--gold); box-shadow:0 2px 8px rgb(0 0 0 / .4); }
+.book-cover-link { display:block; max-width:240px; margin:0 auto .75rem; }
+.book-cover { display:block; max-width:100%; height:auto; margin:0 auto; border:1px solid var(--gold); box-shadow:0 2px 8px rgb(0 0 0 / .4); }
 .book-copy p { margin:0 0 .5rem; }
 .book-copy label { margin-bottom:.25rem; }
 .book-copy-error { background:var(--panel); color:var(--ink); border:2px solid var(--wine); border-radius:4px; max-width:24rem; }
@@ -54,6 +55,9 @@ button:hover { background:var(--wine); }
 footer { text-align:center; font-size:.85rem; padding:2rem 1rem; background:var(--amphora); color:#f3e6cc; border-top:4px solid var(--terracotta); }
 footer a { color:var(--laurel); }
 blockquote { margin:1.25rem 0; padding:.25rem 1rem; border-left:4px solid var(--gold); background:var(--panel); white-space:pre-line; }
+code, pre { font-family:ui-monospace, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size:.85em; }
+pre { overflow-x:auto; }
+pre code { font-size:1em; }
 blockquote cite { display:block; margin-top:.5rem; font-size:.9rem; color:var(--wine); }
 blockquote cite::before { content:"— "; }
 @media (max-width: 58rem) { .meander { display:none; } }
