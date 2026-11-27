@@ -4,13 +4,13 @@ title: Coming Soon to the Temple
 
 The scaffolding is up around the temple. Here is what the builders have planned. Nothing below is open yet.
 
-## Advocates
+## Euergetai
 
-Membership stays free and rests on one criterion: [meditation without effort, for 15 minutes](/membership/). Advocates are friends of the church who choose to support it with a small annual gift. It buys the extras below.
+Membership stays free and rests on one criterion: [meditation without effort, for 15 minutes](/membership/). The *euergetai* (benefactors, as the Greeks called those who funded the festivals) are friends of the church who choose to support it with a small annual gift. It buys the extras below.
 
 ## The Map of Fellow Pilgrims
 
-Advocates may choose to appear on a map, showing only a rough area. You can ask to meet another pilgrim in person, and contact details change hands only when both of you agree. The test of character needs a circle of peers, so the map is also how scattered pilgrims find one another. The map is off until you turn it on.
+Euergetai may choose to appear on a map, showing only a rough area. You can ask to meet another pilgrim in person, and contact details change hands only when both of you agree. The test of character needs a circle of peers, so the map is also how scattered pilgrims find one another. The map is off until you turn it on.
 
 ## Festivals
 
