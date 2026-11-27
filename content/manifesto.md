@@ -11,7 +11,7 @@ This manifesto is the short version of a book in preparation, *Sacraments Unburd
 
 Using drugs is a human right.[^hart] But a drug taken as a sacrament asks for more, because a sacrament is a promise about what happens inside a person. Ours promises to support the flourishing of society. The test of character below is how anyone can check that the promise is kept. The practice has three parts: personal healing, the circle, and the test.
 
-Psychedelic culture has long hoped these substances were a shortcut to a better world: dissolve enough egos and cruelty gives way to empathy. The evidence is mixed at best. People have profound experiences, feel connected to everything, and go back to work on Monday largely unchanged. Insight, it turns out, is not the same as the ability to act under pressure. What matters is not dissolving the ego, a term explained below, but the trust of its parts in the Self to lead.
+Psychedelic culture has long hoped these substances were a shortcut to a better world: Dissolve enough egos and cruelty gives way to empathy. The evidence is mixed at best. People have profound experiences, feel connected to everything, and go back to work on Monday largely unchanged. Insight, it turns out, is not the same as the ability to act under pressure. What matters is not dissolving the ego, a term explained below, but the trust of its parts in the Self to lead.
 
 So what can drugs offer a religion? To answer, we need to know what the Self is and what gets in its way.
 
@@ -59,7 +59,7 @@ The test is a diagnostic, not a treatment. It does not confer integrity. It reve
 
 ## The Role of Kykeon
 
-The test demands courage: material can ambush you while failure is witnessed. Courage like that needs a bedrock of trust.
+The test demands courage: Material can ambush you while failure is witnessed. Courage like that needs a bedrock of trust.
 
 Kykeon showers our parts with grace. Held in grace, parts can develop trust in the Self. Shared in a circle, kykeon also begins the bond of vulnerability that holds a community together. It is the church's welcome: an ancient cup offered at the door to all.
 
@@ -71,7 +71,7 @@ The test and the wider political order can strengthen each other. The test is op
 
 Why not rely on institutional design alone?[^incorruptible] Every bylaw, mission lock, and ownership trust is enforceable only because a legal system backs it, and a legal system is an institution run by people who can look away. Structure moves the problem without solving it. The leverage point is whether the person holding power can feel the pull of self-interest, fear, or ambition and not go under.
 
-Politics safeguards religious freedom: without laws and officials who protect the right to gather, worship, and use sacraments, no church survives. But politics is only as trustworthy as the people who hold power. Those whose Self-leadership has held firm are better candidates for that trust. In turn, they protect the freedom that makes the test possible.
+Politics safeguards religious freedom: Without laws and officials who protect the right to gather, worship, and use sacraments, no church survives. But politics is only as trustworthy as the people who hold power. Those whose Self-leadership has held firm are better candidates for that trust. In turn, they protect the freedom that makes the test possible.
 
 ## Celebration
 

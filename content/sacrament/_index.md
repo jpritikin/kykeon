@@ -83,7 +83,7 @@ The extract's weight includes inert oils, not just ergine. Divide the blob into 
 Kykeon can be co-administered with [tetrahydroharmine](https://brambles.joshuapritikin.com/docs/psychoactive/thh/).
 
 1. Practice meditation to ensure you'll meet the kykeon in the best possible frame of mind. Kykeon isn't like MDMA—indifferent to whatever mood you present.[^mdma] If you only feel buzzing stimulation (without euphoria), consider whether you prepared yourself sufficiently.[^stimulation]
-2. Stir half of the ergine extract (25 seeds' worth) into a slurry of the barley grass and a squeeze of lemon juice. Take it with your ALDH blocker all at once. Wash it down with seltzer water.[^seltzer] Starting with half is the safe way in: with 25 seeds' worth of ergine, the worst that can happen is an ordeal you will recover from in 3-4 hours.
+2. Stir half of the ergine extract (25 seeds' worth) into a slurry of the barley grass and a squeeze of lemon juice. Take it with your ALDH blocker all at once. Wash it down with seltzer water.[^seltzer] Starting with half is the safe way in: With 25 seeds' worth of ergine, the worst that can happen is an ordeal you will recover from in 3-4 hours.
 3. Wait 90 minutes.
 4. If things feel promising, take the other half (ergine only, since the barley grass and ALDH blocker from the first dose are still active).
 5. Sip water throughout.
