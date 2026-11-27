@@ -24,7 +24,7 @@ church = Church(backend=SantoDaime())
 
 ## The Reference Implementation
 
-Santo Daime already does this. A Daime work provokes with ayahuasca, and its word for firmness is *firmeza*. Decades of battle-testing is hard to beat, so we treat it as the reference implementation. For American readers there is a legal reason too: Santo Daime has already won its RFRA case, and delegating the test to a religion already vindicated carries less risk than defending a test of our own.
+Santo Daime already does this. A Daime work provokes with ayahuasca, and its word for firmness is *firmeza*. Decades of battle-testing is hard to beat, so we treat it as the reference implementation. For American readers there is a legal reason too, laid out in the [RFRA case](/sacrament/#precedent).
 
 ## Other Backends
 

@@ -33,7 +33,9 @@ The exiled feelings don't vanish. They leak out as tension, sudden rage, anxiety
 
 No drug that mimics the split of mental injury has a place in our practice. Such drugs produce behavior that the rest of the mind neither directs nor remembers, much like a part cut off from the whole. That is why we have no interest in datura[^datura] or in sleep aids like zolpidem.[^zolpidem] A sacrament should help you approach reality and the people around you.
 
-The drugs that remain play three roles. *Tuning forks* sound one clean state, such as deep relaxation or non-duality, that you can learn to reproduce without the drug. *Empathogens* such as MDMA and kykeon ease the urge of parts to blend, so newcomers can practice compassion before it comes naturally. *Amplifiers* such as N,N-DMT and psilocybin raise Self-energy and the inclination to blend at once, which puts your steering under load. We see three opportunities for a sacrament:
+The drugs that remain play three roles. *Tuning forks* sound one clean state, such as deep relaxation or non-duality, that you can learn to reproduce without the drug. *Empathogens* such as MDMA and kykeon ease the urge of parts to blend, so newcomers can practice compassion before it comes naturally. *Amplifiers* such as N,N-DMT and psilocybin raise Self-energy and the inclination to blend at once, which puts your steering under load.
+
+Together they form a progression of escalating challenge. Tuning forks and meditation build contemplative skill, empathogens welcome, and amplifiers bring the test. The welcome serves both healing and the circle. We see three opportunities for a sacrament:
 
 **Personal emotional healing.** Exiled parts can be met and heard while the rest of the mind stays present. What was split off can rejoin. Kykeon can facilitate this process.
 
@@ -61,7 +63,7 @@ The test is a diagnostic, not a treatment. It does not confer integrity. It reve
 
 The test demands courage: Material can ambush you while failure is witnessed. Courage like that needs a bedrock of trust.
 
-Kykeon showers our parts with grace. Held in grace, parts can develop trust in the Self. Shared in a circle, kykeon also begins the bond of vulnerability that holds a community together. It is the church's welcome: an ancient cup offered at the door to all.
+Kykeon showers our parts with grace. Held in grace, parts can develop trust in the Self. Shared in a circle, kykeon also begins the bond of vulnerability that holds a community together. It is the church's welcome: an ancient cup offered at the door to anyone who is ready to receive it.
 
 Kykeon is also the most extravagantly euphoric drug we know, which makes it the easiest to indulge. Without a purpose, it becomes the Friday-night couch on a grand scale. The test gives the euphoria a job.
 
