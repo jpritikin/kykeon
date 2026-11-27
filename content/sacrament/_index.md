@@ -22,22 +22,22 @@ The steps, in order: [screen for contraindications](#screen-for-contraindication
 
 **This protocol does not risk ergotism.** Ergine belongs to the ergot alkaloids. But ergotism (a potentially fatal condition) requires chronic, heavy exposure far beyond the mild dose here. Ergine is also a much weaker vasoconstrictor than the alkaloids behind classic ergotism. Still, vascular sensitivity varies, so screen yourself first.
 
-Ergine's usual complaints are nausea, sedation, and dysphoria. It can also raise heart rate and blood pressure and mildly constrict blood vessels, which can show up as cold or tingling fingers and toes. Anecdotal reports suggest ergine's own effects are absent while aldehydes are converting it, so these risks apply mainly if the aldehydes run out and ergine reaches the brain unconverted.
+Ergine's usual complaints are nausea, sedation, and dysphoria. It can also raise heart rate and blood pressure and mildly constrict blood vessels, which can show up as cold or tingling fingers and toes. Rare severe outcomes such as psychosis and seizures appear in poison-center cases, usually with unknown doses or adulterated products. Anecdotal reports suggest ergine's subjective effects are absent while aldehydes are converting it. Whether the heart and blood vessels are spared too is unknown, since ergine circulates in your blood either way. Screen as if they are not.
 
-Do not proceed if any of these apply:
+Do not proceed if any of these apply (the liver and CYP3A4 entries are extrapolated from other ergot drugs, not shown for ergine):
 
 - Cardiovascular disease, including coronary artery disease, prior heart attack, angina, or uncontrolled hypertension
 - Peripheral vascular disease or Raynaud's phenomenon
 - Pregnancy, or trying to conceive (ergot alkaloids can contract the uterus)
 - Breastfeeding
-- Liver impairment, since ergot alkaloids are metabolized there
-- Taking strong CYP3A4 inhibitors (certain macrolide antibiotics, azole antifungals, HIV protease inhibitors), which can raise ergot levels dangerously
+- Liver impairment, since other ergot drugs and LSD are cleared by the liver
+- Taking strong CYP3A4 inhibitors (certain macrolide antibiotics, azole antifungals, HIV protease inhibitors), which can dangerously raise levels of other ergot drugs
 - Taking triptans or other vasoconstrictors
 - A personal or family history of psychosis
 
-Stahl himself is a heart attack survivor, yet he reports no vasoconstriction when he uses kykeon. [His ALDH enzyme seems to be unusual](https://brambles.joshuapritikin.com/posts/kykeon-cold-case/), perhaps from years on a ketogenic diet, and genetics are not ruled out (he has submitted a saliva sample for whole genome sequencing). His experience may not transfer to you. Until we know why, do not treat it as evidence that the protocol is safe for a damaged heart.
+[Matt Stahl](/leadership/), the chemist who reverse-engineered the kykeon, is himself a heart attack survivor, yet he reports no vasoconstriction when he uses kykeon. [His ALDH enzyme seems to be unusual](https://brambles.joshuapritikin.com/posts/kykeon-cold-case/), perhaps from years on a ketogenic diet, and genetics are not ruled out (he has submitted a saliva sample for whole genome sequencing). His experience may not transfer to you. Until we know why, do not treat it as evidence that the protocol is safe for a damaged heart.
 
-Ergot alkaloids aren't known to be bioaccumulative. The liver breaks them down (mostly via CYP3A4), and anecdotal reports suggest the body clears ergine within days. Humans have no known delayed illness from an exposure that felt tolerable at the time.
+Ergot alkaloids aren't known to be bioaccumulative. Other ergot drugs are broken down by the liver, mostly via CYP3A4, and anecdotal reports suggest the body clears ergine within days. Humans have no known delayed illness from an exposure that felt tolerable at the time.
 
 ## Materials
 
@@ -83,7 +83,7 @@ The extract's weight includes inert oils, not just ergine. Divide the blob into 
 Kykeon can be co-administered with [tetrahydroharmine](https://brambles.joshuapritikin.com/docs/psychoactive/thh/).
 
 1. Practice meditation to ensure you'll meet the kykeon in the best possible frame of mind. Kykeon isn't like MDMA—indifferent to whatever mood you present.[^mdma] If you only feel buzzing stimulation (without euphoria), consider whether you prepared yourself sufficiently.[^stimulation]
-2. Stir half of the ergine extract (25 seeds' worth) into a slurry of the barley grass and a squeeze of lemon juice. Take it with your ALDH blocker all at once. Wash it down with seltzer water.[^seltzer] Starting with half is the safe way in: With 25 seeds' worth of ergine, the worst that can happen is an ordeal you will recover from in 3-4 hours.
+2. Stir half of the ergine extract (25 seeds' worth) into a slurry of the barley grass and a squeeze of lemon juice. Take it with your ALDH blocker all at once. Wash it down with seltzer water.[^seltzer] Starting with half is the safe way in. The worst to expect from 25 seeds' worth of ergine is an ordeal you will recover from in 3-4 hours.
 3. Wait 90 minutes.
 4. If things feel promising, take the other half (ergine only, since the barley grass and ALDH blocker from the first dose are still active).
 5. Sip water throughout.
