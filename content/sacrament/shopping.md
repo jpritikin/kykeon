@@ -20,7 +20,7 @@ If you also need a grinder then you might consider:
 
 Check your state regulations for sourcing ethyl alcohol:
 
-- Everclear 190 proof
+- Everclear 190 proof 750 mL
 
 ## Hypothetical Cost
 
